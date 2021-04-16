@@ -1,0 +1,2 @@
+# jim-denny
+sprocket class
